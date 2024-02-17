@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Mario",
+      "surname": "Rossi",
+      "email": "mario@example.com",
+      "password": "password123",
+      "loggedIn": false
+    },
+    {
+      "id": 2,
+      "name": "Luigi",
+      "surname": "Bianchi",
+      "email": "luigi@example.com",
+      "password": "securepassword",
+      "loggedIn": false
+    }
+  ]
+}
